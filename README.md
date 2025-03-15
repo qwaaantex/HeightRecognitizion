@@ -1,27 +1,50 @@
-### **HeightRecognitizion**
+# 📏 HeightRecognitizion
 
-# How to use it?
-> It's simple! You need to:
-> 1. Click the "Code"
-button > 2. Select "Download Zip"
-> 3. Run "HeightRecognitizion.exe "
+![GitHub release](https://img.shields.io/badge/version-1.0-blue)
+![Platform](https://img.shields.io/badge/platform-windows-brightgreen)
 
-# What is it for?
-> The application allows you to approximately determine your height. 
-> The algorithm is still imperfect, but I continue to develop it.
-> I will be glad to hear your feedback and suggestions for improvement!
+## 🚀 Quick Start
 
-# Features
-- Simple interface
-- Rapid growth detection
-- Constant updating of the algorithm
+### Installation in 3 easy steps:
+1. **Download**: Click `Code` → `Download ZIP`
+2. **Unzip**: Extract the downloaded archive
+3. **Run**: Open `HeightRecognitizion.exe`
 
-# System requirements
+## 🤔 What is it?
+
+HeightRecognitizion is an innovative application for height detection using computer vision.
+
+### Key benefits:
+- 🔍 Accurate height measurement
+- 💻 Simple interface
+- 🚀 Constantly improving the algorithm
+
+## 🛠 Technologies
+
+- Computer Vision
+- Machine Learning
+- Neural Networks
+
+## 🖥 System requirements
+
 - Windows 10/11
-- Webcam
-- .NET Framework
+- .NET Framework 4.7+
 
-# Development plans
-- Increased accuracy
-- Adding new algorithms
-- Cross-platform
+## 🔮 Future of the project
+
+- [ ] Improving the accuracy of the algorithm
+- [ ] Cross-platform version
+- [ ] Integration with mobile devices
+
+## 📞 Feedback
+
+Found a bug? Any suggestions?
+**[Create an Issue](https://github.com/qwaaantex/HeightRecognitizion/issues)**
+
+## 📄 License
+
+MIT License
+
+---
+
+**Disclaimer**: The app provides an approximate height estimate 📏
