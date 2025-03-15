@@ -27,8 +27,8 @@ HeightRecognitizion is an innovative application for height detection using comp
 
 ## 🖥 System requirements
 
-- Windows 10/11
-- .NET Framework 4.7+
+- Windows `7/10/11`
+- .NET Framework `4.7+`
 
 ## 🔮 Future of the project
 
