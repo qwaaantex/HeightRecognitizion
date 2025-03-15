@@ -21,9 +21,9 @@ HeightRecognitizion is an innovative application for height detection using comp
 
 ## 🛠 Technologies
 
-- Computer Vision
-- Machine Learning
-- Neural Networks
+- Algoritms
+- Proximity to reality
+- Algebraic expressions
 
 ## 🖥 System requirements
 
