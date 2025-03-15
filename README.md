@@ -1,5 +1,27 @@
 ### **HeightRecognitizion**
-# How to use?
-> It's easy, you need install code. Press "code", next click "Download Zip", next you need open "HeightRecognitizion.exe"
+
+# How to use it?
+> It's simple! You need to:
+> 1. Click the "Code"
+button > 2. Select "Download Zip"
+> 3. Run "HeightRecognitizion.exe "
+
 # What is it for?
-> Perhaps the application is not very useful, but you must agree, it is very interesting to find out your approximate height! The algorithm of the application is not very complicated, but for maximum accuracy I will continue to develop it, so I hope that you will like it!
+> The application allows you to approximately determine your height. 
+> The algorithm is still imperfect, but I continue to develop it.
+> I will be glad to hear your feedback and suggestions for improvement!
+
+# Features
+- Simple interface
+- Rapid growth detection
+- Constant updating of the algorithm
+
+# System requirements
+- Windows 10/11
+- Webcam
+- .NET Framework
+
+# Development plans
+- Increased accuracy
+- Adding new algorithms
+- Cross-platform
