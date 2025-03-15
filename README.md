@@ -18,7 +18,7 @@
 
 ## 🤔 Project Overview
 
-**HeightRecognitizion** is a cutting-edge application that leverages computer vision to estimate human height with remarkable precision.
+**HeightRecognitizion** is a cutting-edge `application` that leverages computer vision to estimate human height with `remarkable` precision.
 
 ### 🌟 Key Features:
 - 🔍 Precise Height Detection
