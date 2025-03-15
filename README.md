@@ -1,6 +1,8 @@
-
 <p align="center">
   # 📏 HeightRecognitizion
+</p>
+<p align="center">
+  
   <img src="https://img.shields.io/badge/version-1.0-blue?style=for-the-badge&logo=github" alt="Version">
   <img src="https://img.shields.io/badge/platform-windows-brightgreen?style=for-the-badge&logo=windows" alt="Platform">
 </p>
