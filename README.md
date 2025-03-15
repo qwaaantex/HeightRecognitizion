@@ -1,4 +1,4 @@
-## **HeightRecognitizion**
+### **HeightRecognitizion**
 # How to use?
 > It's easy, you need install code. Press "code", next click "Download Zip", next you need open "HeightRecognitizion.exe"
 # What is it for?
