@@ -19,6 +19,11 @@ HeightRecognitizion is an innovative application for height detection using comp
 - 💻 Simple interface
 - 🚀 Constantly improving the algorithm
 
+## 🔧 Examples
+
+![image](https://github.com/user-attachments/assets/a8040718-82d5-495c-9ec9-5bc9469320b7)
+
+
 ## 🛠 Technologies
 
 - Algoritms
